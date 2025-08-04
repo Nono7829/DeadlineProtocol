@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Nono/Jeux Unreal/nono/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/JG/Z4RYT2DNVLS7IGRECVE10T.uasset",
+				"D:/Nono/Jeux Unreal/nono/Content/Characters/EnnemieTest/BP_EnnemieTest.uasset",
+				"D:/Nono/Jeux Unreal/nono/Content/UI/WB_UI.uasset",
+				"D:/Nono/Jeux Unreal/nono/Content/UI/WB_Dialog.uasset",
+				"D:/Nono/Jeux Unreal/nono/Content/UI/MiniMapTextureRenderTarget2D.uasset",
+				"D:/Nono/Jeux Unreal/nono/Content/UI/MiniMapTextureRenderTarget2D_Mat.uasset",
+				"D:/Nono/Jeux Unreal/nono/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Nono/Jeux Unreal/nono/Content/UI/WB_MiniMap.uasset",
+				"D:/UnrealEngine/UE_5.6/Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset",
+				"D:/Nono/Jeux Unreal/nono/Content/UI/PlayerArrow.uasset",
+				"D:/Nono/Jeux Unreal/nono/Content/UI/PlayerArrow_Sprite.uasset",
+				"D:/UnrealEngine/UE_5.6/Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture_Mat.uasset",
+				"D:/DeadlineProtocol/Content/UI/WB_EnnemieLifeBar.uasset",
+				"D:/DeadlineProtocol/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/JG/Z4RYT2DNVLS7IGRECVE10T.uasset",
+				"D:/DeadlineProtocol/Content/Characters/EnnemieTest/BP_EnnemieTest.uasset",
+				"D:/DeadlineProtocol/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/DeadlineProtocol/Content/MiniMapTextureRenderTarget2D.uasset",
+				"D:/DeadlineProtocol/Content/UI/MiniMapTextureRenderTarget2D.uasset",
+				"D:/DeadlineProtocol/Content/UI/MiniMapTextureRenderTarget2D_Mat.uasset",
+				"D:/DeadlineProtocol/Content/UI/WB_UI.uasset"
+			]
+		}
+	]
+}
